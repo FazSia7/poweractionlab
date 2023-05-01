@@ -25,9 +25,9 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: '<ENVIRONMENTURL>'
-  CLIENT_ID: '<APPID>'
-  TENANT_ID: '<TENANT ID>'
+  ENVIRONMENT_URL: 'https://0nf68-admin.sharepoint.com/'
+  CLIENT_ID: '2dd2b254-3dde-4b4b-a235-949c82eb9d62'
+  TENANT_ID: 'f9bf361e-eb12-4cd4-99b8-16da9b0438bf'
 permissions:
   contents: write
 jobs:
